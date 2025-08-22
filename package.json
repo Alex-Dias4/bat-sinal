@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "main": "index.ts",
   "scripts": {
-    "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
-    "web": "expo start --web"
+    "start": "pnpm expo start",
+    "android": "pnpm expo start --android",
+    "ios": "pnpm expo start --ios",
+    "web": "pnpm expo start --web"
   },
   "dependencies": {
-    "expo": "~53.0.20",
+    "expo": "53.0.22",
     "expo-status-bar": "~2.2.3",
     "react": "19.0.0",
     "react-native": "0.79.5"
