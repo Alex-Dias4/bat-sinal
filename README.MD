@@ -10,7 +10,6 @@ A proposta é aprender os fundamentos da criação de apps móveis com tipagem e
 - [Expo](https://expo.dev/)
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [React Navigation](https://reactnavigation.org/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ---
